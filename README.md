@@ -1,5 +1,5 @@
 Hi, this is Akira!
-I mainly work on the NCP project. Feel free to contact me on keybase!
+I mainly work on the NCP project.
 
 <!---
 akiranakatomi/akiranakatomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
